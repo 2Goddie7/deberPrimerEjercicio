@@ -1,0 +1,1 @@
+Este repositorio tiene el primer ejercicio del deber, para poder ejecutar el archivo debemos copiar la carpeta del repositorio en cualquiera, abrir la carpeta desde IntelliJ IDEA y ejecutar.
