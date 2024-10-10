@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea7d64fe-9b83-4a62-8aa9-88e8a6051bc1" name="Changes" comment="intento 3 de crear el repositorio en git" />
     <option name="SHOW_DIALOG" value="false" />
@@ -8,7 +11,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="2Goddie7 &lt;diego.mullo@epn.edu.ec&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1b0dcd2e-0a22-4c3d-8c70-e9e1c17c28ff" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -25,6 +36,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Usuario/Desktop/POO/deberPrimerEjercicio/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
@@ -47,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728525289522</updated>
-      <workItem from="1728525290579" duration="164000" />
+      <workItem from="1728525290579" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="intento 3 de crear el repositorio en git">
       <option name="closed" value="true" />
@@ -57,7 +72,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728525426733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intento 3 de crear el repositorio en git">
+      <option name="closed" value="true" />
+      <created>1728525478035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728525478035</updated>
+    </task>
+    <task id="LOCAL-00003" summary="intento 3 de crear el repositorio en git">
+      <option name="closed" value="true" />
+      <created>1728525540722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728525540722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="intento 3 de crear el repositorio en git">
+      <option name="closed" value="true" />
+      <created>1728525603403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728525603403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
